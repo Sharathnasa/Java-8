@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9531d1f1-51ba-40d3-94e3-d1ccd18808cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fxpi/lambdas/ComparatorUsingLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fxpi/lambdas/RunnableUsingLambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitIgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/Controllers/CurrencyConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/Controllers/CurrencyConversionController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/CurrencyConversionServiceApplication.java" afterDir="false" />
@@ -22,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bnp4ehHRqaiPdkReuzDtToAJQ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589277521239</updated>
-      <workItem from="1589277522624" duration="4378000" />
+      <workItem from="1589277522624" duration="4527000" />
     </task>
     <servers />
   </component>
@@ -94,22 +94,22 @@
       <screen x="1680" y="-66" width="1920" height="1057" />
     </state>
     <state x="2137" y="17" key="#Project_Structure/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589279989603" />
-    <state width="1638" height="246" key="GridCell.Tab.0.bottom" timestamp="1589295121403">
+    <state width="1638" height="148" key="GridCell.Tab.0.bottom" timestamp="1589297897735">
       <screen x="1680" y="-66" width="1920" height="1057" />
     </state>
-    <state width="1638" height="246" key="GridCell.Tab.0.bottom/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121403" />
-    <state width="1638" height="246" key="GridCell.Tab.0.center" timestamp="1589295121401">
+    <state width="1638" height="148" key="GridCell.Tab.0.bottom/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589297897735" />
+    <state width="1638" height="148" key="GridCell.Tab.0.center" timestamp="1589297897734">
       <screen x="1680" y="-66" width="1920" height="1057" />
     </state>
-    <state width="1638" height="246" key="GridCell.Tab.0.center/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121401" />
-    <state width="1638" height="246" key="GridCell.Tab.0.left" timestamp="1589295121400">
+    <state width="1638" height="148" key="GridCell.Tab.0.center/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589297897734" />
+    <state width="1638" height="148" key="GridCell.Tab.0.left" timestamp="1589297897733">
       <screen x="1680" y="-66" width="1920" height="1057" />
     </state>
-    <state width="1638" height="246" key="GridCell.Tab.0.left/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121400" />
-    <state width="1638" height="246" key="GridCell.Tab.0.right" timestamp="1589295121402">
+    <state width="1638" height="148" key="GridCell.Tab.0.left/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589297897733" />
+    <state width="1638" height="148" key="GridCell.Tab.0.right" timestamp="1589297897734">
       <screen x="1680" y="-66" width="1920" height="1057" />
     </state>
-    <state width="1638" height="246" key="GridCell.Tab.0.right/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121402" />
+    <state width="1638" height="148" key="GridCell.Tab.0.right/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589297897734" />
     <state x="2158" y="74" key="SettingsEditor" timestamp="1589279834746">
       <screen x="1680" y="-66" width="1920" height="1057" />
     </state>
