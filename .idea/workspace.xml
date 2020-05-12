@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9531d1f1-51ba-40d3-94e3-d1ccd18808cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/fxpi/lambdas/ComparatorUsingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fxpi/lambdas/RunnableUsingLambdas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/Controllers/CurrencyConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/Controllers/CurrencyConversionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/fxpi/microservice/currencyconversionservice/CurrencyConversionServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bnp4ehHRqaiPdkReuzDtToAJQ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.RunnableUsingLambdas">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.fxpi.Main" />
+      <module name="Java-8" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnableUsingLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fxpi.lambdas.RunnableUsingLambdas" />
+      <module name="Java-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fxpi.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RunnableUsingLambdas" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunnableUsingLambdas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9531d1f1-51ba-40d3-94e3-d1ccd18808cc" name="Default Changelist" comment="" />
+      <created>1589277521239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589277521239</updated>
+      <workItem from="1589277522624" duration="4378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2137" y="17" key="#Project_Structure" timestamp="1589279989603">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state x="2137" y="17" key="#Project_Structure/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589279989603" />
+    <state width="1638" height="246" key="GridCell.Tab.0.bottom" timestamp="1589295121403">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="246" key="GridCell.Tab.0.bottom/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121403" />
+    <state width="1638" height="246" key="GridCell.Tab.0.center" timestamp="1589295121401">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="246" key="GridCell.Tab.0.center/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121401" />
+    <state width="1638" height="246" key="GridCell.Tab.0.left" timestamp="1589295121400">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="246" key="GridCell.Tab.0.left/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121400" />
+    <state width="1638" height="246" key="GridCell.Tab.0.right" timestamp="1589295121402">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="246" key="GridCell.Tab.0.right/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295121402" />
+    <state x="2158" y="74" key="SettingsEditor" timestamp="1589279834746">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state x="2158" y="74" key="SettingsEditor/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589279834746" />
+    <state x="2314" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1589295872627">
+      <screen x="1680" y="-66" width="1920" height="1057" />
+    </state>
+    <state x="2314" y="169" width="670" height="676" key="search.everywhere.popup/1680.-66.1920.1057/0.23.1680.947@1680.-66.1920.1057" timestamp="1589295872627" />
+  </component>
+</project>
