@@ -1,6 +1,6 @@
 package com.fxpi.FunctionaInterfaces;
 
-public class FunctionExampleForContact {
+public class FunctionExampleForConcat {
 
     public static String performContact(String string) {
         return FunctionExample.concatString.apply(string);
