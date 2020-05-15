@@ -1,4 +1,4 @@
-package com.fxpi.FucntionaInterfaces;
+package com.fxpi.FunctionaInterfaces;
 
 import com.fxpi.data.Student;
 import com.fxpi.data.StudentDataBase;

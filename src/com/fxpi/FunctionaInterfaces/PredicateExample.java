@@ -1,4 +1,4 @@
-package com.fxpi.FucntionaInterfaces;
+package com.fxpi.FunctionaInterfaces;
 
 import java.util.function.Predicate;
 
