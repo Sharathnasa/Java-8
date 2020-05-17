@@ -19,3 +19,9 @@
    ii.  How to use Method references along with Lambdas.  
    
    iii. How to use Constructor Reference to create new objects.
+   
+ 4. Lambdas and Local variables ( Effectively Final )
+    
+    i.  Local variable and how it should used in Lambdas.
+    
+    ii. Definition of Effectively Final scope of a variable. 
