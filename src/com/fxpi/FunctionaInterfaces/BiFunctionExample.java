@@ -11,6 +11,7 @@ import java.util.function.Predicate;
 
 public class BiFunctionExample {
 
+    //student name and gpa in a map
     static BiFunction<List<Student>, Predicate<Student>, Map<String, Double>> biFunction = ((students, studentPredicate) -> {
         Map<String, Double> studentGradeMap = new HashMap<>();
         students.forEach((student -> {
